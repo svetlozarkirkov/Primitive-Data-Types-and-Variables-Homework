@@ -1,0 +1,5 @@
+c:\users\sve\documents\visual studio 2013\Projects\2.Primitive-Data-Types-and-Variables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe.config
+c:\users\sve\documents\visual studio 2013\Projects\2.Primitive-Data-Types-and-Variables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.exe
+c:\users\sve\documents\visual studio 2013\Projects\2.Primitive-Data-Types-and-Variables\7.QuotesInStrings\bin\Debug\7.QuotesInStrings.pdb
+c:\users\sve\documents\visual studio 2013\Projects\2.Primitive-Data-Types-and-Variables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.exe
+c:\users\sve\documents\visual studio 2013\Projects\2.Primitive-Data-Types-and-Variables\7.QuotesInStrings\obj\Debug\7.QuotesInStrings.pdb
